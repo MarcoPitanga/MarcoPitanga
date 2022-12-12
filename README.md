@@ -24,7 +24,7 @@
 
 ## ✉️ Contato
 <p align="left">
-  <a href="https://criarmeulink.com.br/u/1670880560" alt="Gmail">
+  <a href="mailto:marcopitanga21@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
   
   <a href="https://wa.link/9f11j8" alt="WhatsApp">
