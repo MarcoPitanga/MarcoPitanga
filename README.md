@@ -3,8 +3,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Eu sou o Marco Aurélio, estudante de Ciencia da Computação pela <a href="https://www.unisuam.edu.br">UNISUAM</a>.
-#### Atualmente estou estudando e desenvolvendo projetos voltados para Web. Meu ultimo projeto finalizado foi o <a href="https://github.com/MarcoPitanga/Pong-Multiplayer">Pong Multiplayer</a>.
+#### Eu sou o Marco Aurélio, recém-formado em Ciência da Computação pela <a href="https://www.unisuam.edu.br">UNISUAM</a>.
+#### Atualmente estou desenvolvendo o meu <a href="https://github.com/MarcoPitanga/portfolio">portfólio</a>, disponivel em <a href="https://marco-pitanga.web.app">marco-pitanga.web.app</a>.
 
 ## 🚀 Linguagens e Ferramentas
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
